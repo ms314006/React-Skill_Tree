@@ -1,0 +1,43 @@
+body{
+    margin:40px;
+    background: -webkit-linear-gradient(left, #250060, #000, #000, #250060);
+    background: -o-linear-gradient(right, #250060, #000, #000, #250060);
+    background: -moz-linear-gradient(right, #250060, #000, #000, #250060);
+    background: linear-gradient(to right, #250060, #000, #000, #250060);
+}
+
+#leftBlock{
+    width:255px;
+}
+
+.mainTitle{
+    font-size: 48px;
+    font-family: 'Roboto';
+    color: #FF0093;
+}
+
+.rankTitleBlock{
+    width: 148px;
+    margin-top:24px;
+    margin-bottom: 8px;
+    background: #8000FF;
+    text-align: center;
+}
+
+.rankTitle{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #250060;
+}
+
+.littleTitle{
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    text-decoration: underline;
+    text-decoration-color: #6900d1;
+}
+
+#shipBlock{
+    margin-top:24px;
+}
